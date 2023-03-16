@@ -7,7 +7,7 @@ item3 = input("Kindly input your third order: ")
 
 # Print them out seprately 
 
-print("Order Confirmation! You have orderd")
+print("Order Confirmation! You have ordered")
 
 print(item1)
 print(item2)
